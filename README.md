@@ -1,4 +1,4 @@
-# Predição com Machine Learning - Previsão de Preços de Imóveis
+# Predição com Machine Learning
 ---
 ### 🏡 Predição de Preços de Imóveis com PySpark
 
